@@ -72,7 +72,7 @@
       height: 75px;
       margin-bottom: 24px;
       border-radius: 50% 50% 50% 0;
-      transform: rotate(-45deg);
+      transform: rotate(-20deg);
   }
 
   .shape-blue {
@@ -101,9 +101,10 @@
   .card p {
       font-size: 0.83rem;
       color: #757585;
-      line-height: 1.5;
+      line-height: 1.4;
       margin-bottom: 24px;
       flex-grow: 1;
+      
   }
 
   .card a {
